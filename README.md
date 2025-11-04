@@ -1,4 +1,5 @@
-## Hi there 👋
+## Yasser Moussi
+https://img.shields.io/badge/Automotive-Engineering-red.svg
 
 Passionate automotive systems engineer specializing in embedded systems and real-time simulation development. Focused on creating professional-grade automotive systems with precision engineering and industry-standard performance metrics.
 <!--
