@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Passionate automotive systems engineer specializing in embedded systems and real-time simulation development. Focused on creating professional-grade automotive systems with precision engineering and industry-standard performance metrics.
 <!--
 **yasser-moussi/yasser-moussi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
