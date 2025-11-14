@@ -5,6 +5,6 @@ Passionate automotive systems engineer specializing in embedded systems and real
 
 ## 📞 Contact
 
-Yasser Moussi
+**Yasser Moussi**
 - Email: yasser.moussi.kfz@gmail.com
 - LinkedIn: [Yasser Moussi](https://www.linkedin.com/in/yasser-moussi/)
